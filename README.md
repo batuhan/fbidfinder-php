@@ -1,3 +1,3 @@
-Original version of Facebook ID Finder, please DO NOT USE this, use new one instead.
+This is the backend interface for the Facebook ID Finder.
 
-Note: This was coded in 40 seconds and I was drunk, so code may be ugly, don't judge.
+The tool didn't needed a backend but with the Graph API v2, it's required to have an active access token to fetch any information via the API. 
